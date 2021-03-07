@@ -1,4 +1,4 @@
 # GIFPYTHON
 gif maker using python
 
-in below screenshot the output of gif is showing.
+in screenshot the output of gif is showing.
